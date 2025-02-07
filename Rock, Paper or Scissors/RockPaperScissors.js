@@ -1,6 +1,6 @@
 
 const userChoice = () => {
-    let user = prompt("Rock, Paper or Scissors?");
+    let user = input("Rock, Paper or Scissors?");
     user = user.toLowerCase();
     return (user === "rock" || user === "paper" || user === "scissors") ? user : alert("Invalid choice");
 }
