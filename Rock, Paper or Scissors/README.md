@@ -11,7 +11,7 @@ The possible outcome are:
 
 Our code will break the game into four parts:
 
-1 - Get the user's choice.
-2 - Get the computer's choice.
-3 - Compare the two choices and determine a winner.
-4 - start the program and display the result.
+1. Get the user's choice.
+2. Get the computer's choice.
+3. Compare the two choices and determine a winner.
+4. start the program and display the result.
